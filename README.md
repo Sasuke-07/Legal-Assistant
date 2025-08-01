@@ -115,15 +115,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This application provides general legal information and should not be considered as professional legal advice. Always consult with a qualified attorney for specific legal matters.
 
-## 📞 Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/legalassist](https://github.com/yourusername/legalassist)
-
 ## 🙏 Acknowledgments
 
-- OpenAI for GPT API
 - Google for Gemini API
 - Apache Tomcat community
 - Java servlet technology contributors
