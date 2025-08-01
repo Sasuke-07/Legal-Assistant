@@ -93,19 +93,9 @@ legalassist/
 
 ## 🔧 API Integration
 
-The application integrates with multiple AI services:
+The application integrates with:
 
-- **OpenAI GPT**: Primary AI service for legal analysis
-- **Google Gemini**: Fallback service for enhanced reliability
-- **Graceful Degradation**: Offline mode when APIs are unavailable
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- **Google Gemini**: Primary AI service for legal analysis
 
 ## 📝 License
 
