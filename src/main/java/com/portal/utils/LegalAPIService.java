@@ -26,7 +26,7 @@ public class LegalAPIService {
     
     // API configuration
     private static final String API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
-    private static final String API_KEY = "AIzaSyBvNBKiyAFAsWmjRXbM1lpr4p1WmbgME6o"; // Google AI Studio API Key
+    private static final String API_KEY = "YOUR API KEY"; // Google AI Studio API Key
     private static final boolean USE_API = true; // Set to true to use actual Google AI API
     
     /**
